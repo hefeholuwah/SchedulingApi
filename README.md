@@ -2,6 +2,8 @@
 
 This document outlines the implementation of a scalable and highly available architecture for a **Sports API** using AWS services and containerization. The architecture includes API Gateway, ECS Service, Elastic Load Balancer (ALB), and integration with the **Sportdata.io API**.
 
+![ECS drawio](https://github.com/user-attachments/assets/f851f988-288a-4063-8893-f920c7e5d49b)
+
 ---
 
 ## Architecture Overview
